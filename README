@@ -1,0 +1,3 @@
+First Go project
+Consists in a hangman game
+Words are fetched from a public api at each game
